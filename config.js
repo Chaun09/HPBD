@@ -2,14 +2,14 @@
 var config = {
    
     texts: [
-        "Bạn Hà À ",   
-        "Xin lỗi b rất nhiều vì thời gian vừa qua toi đã làm b buồn", 
+        "Bạn Linh À ",   
+      
         "Chúc mừng sinh nhật bạn", 
         "Tuổi mới hay ăn chóng lớn",
         "Sức khoẻ dồi dào",
         "Phát lộc phát tài",
         "Vạn sự như ý",
-        
+        "Có Nhiều Người Yêu :))))))))))))))))))"
         "Thật nhiều hạnh phúc",
         "Công việc suôn sẻ",
         "Thành Công Trên Con Đường Mình Đã Chọn nhé",
